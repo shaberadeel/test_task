@@ -91,6 +91,7 @@ The following APIs are available:
        "email": "john.doe@example.com",
        "phoneNumber": "1234567890"
    }
+
 ```
 
 **Delete a User by id**
